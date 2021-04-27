@@ -32,6 +32,8 @@ Inspired by [Siddharth Kshetrapal bundlesize][bundlesize]
 
 # Getting Started
 
+A test
+
 Install the BundleWatch package:
 
 - NPM: `npm install bundlewatch --save-dev`
